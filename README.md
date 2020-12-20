@@ -1,4 +1,5 @@
 # Fetal Health Predictor
+![Project Poster](/Poster FHP.png "Project Poster")
 Anggota Kelompok: 
 1. Ihsan Maulana Riyadi (Ketua)
 2. Angel Metanosa Afinda
@@ -8,4 +9,4 @@ Anggota Kelompok:
 
 Poster FHP.png
 
-![Project Poster](Poster FHP.png "Project Poster")
+
