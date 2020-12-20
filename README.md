@@ -1,5 +1,5 @@
 # Fetal Health Predictor
-![Project Poster](/poster.png "Project Poster")
+![Project Poster](/gambar/poster.png "Project Poster")
 
 Anggota Kelompok: 
 1. Ihsan Maulana Riyadi (Ketua)
