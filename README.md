@@ -1,5 +1,5 @@
 # Fetal Health Predictor
-![Project Poster](/Poster FHP.png "Project Poster")
+![Project Poster](/poster.png "Project Poster")
 
 ---
 
