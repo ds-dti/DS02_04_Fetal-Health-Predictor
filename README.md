@@ -1,4 +1,5 @@
 # Fetal Health Predictor
+![Project Poster](/Poster FHP.png "Project Poster")
 Aplikasi web ini ditujukan kepada para profesional di bidang kesehatan ibu & anak, yaitu di ranah dokter kandungan. Prediktor ini diharap dapat meminimalisir dan mencegah hal-hal yang tidak diinginkan pada saat janin masih dalam kandungan.
 Anggota Kelompok: 
 1. Ihsan Maulana Riyadi (Ketua)
