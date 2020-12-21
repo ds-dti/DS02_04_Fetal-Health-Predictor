@@ -1,0 +1,10 @@
+Fatal Health Prediction User Guidance :
+
+Pre-requisites :
+Terinstall python
+Memiliki library flask , pandas , dan joblib
+
+Tata cara penggunaan :
+1. Buka cmd pada folder tempat file diekstrak
+2. Run di cmd python app.py
+3. Html akan muncul silahkan prediksi fetal health
