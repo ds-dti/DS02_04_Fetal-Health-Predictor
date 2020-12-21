@@ -15,7 +15,7 @@ Kemampuan penyelenggaraan pelayanan kesehatan suatu bangsa diukur dengan menentu
 Intrauterine Fetal Death (IUFD) adalah kematian yang terjadi saat usia kehamilan > 20 minggu dan janin sudah mencapai ukuran 500 gram atau lebih. Umumnya IUFD terjadi menjelang persalinan saat kehamilan sudah memasuki usia 32 minggu dan istilah lahir mati (stillbirth) yang merupakan hasil konsepsi dalam keadaan mati yang telah mencapai usia kehamilan 28 minggu, sering digunakan bersamaan dengan IUFD. Kematian janin merupakan hasil akhir dari gangguan pertumbuhan janin, gawat janin, atau infeksi
 ## Output
 Sehingga dari masalah tersebut kami berharap dengan pembuatan model dan web ini, walaupun dalam praktiknya model ini hanya dapat digunakan apabila sebagian besar datanya mengandung data dari alat CTG atau Cardiotocograms, yaitu alat yang dapat mendeteksi denyut jantung janin. Sehingga aplikasi web ini masih terbatas dalam penggunaannya, terutama di Indonesia, karena hanya beberapa rumah sakit yang mempunyai alat tersebut. Target kami fokus ditujukan kepada para profesional di bidang kesehatan ibu & anak, yaitu di ranah dokter kandungan. Prediktor ini diharap dapat meminimalisir dan mencegah hal-hal yang tidak diinginkan pada saat janin masih dalam kandungan.
-##User Guidance :
+## User Guidance :
 
 Pre-requisites :
 Terinstall python
